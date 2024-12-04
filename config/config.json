@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "crud_exercise_22ktpm4_22127072_db_user",
+    "password": "2qOcSSBK5OFYy48rTVyRJqLGVN8zP4wu",
+    "database": "crud_exercise_22ktpm4_22127072_db",
+    "host": "dpg-ct89603qf0us73b3qieg-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "crud_exercise_22ktpm4_22127072_db_user",
+    "password": "2qOcSSBK5OFYy48rTVyRJqLGVN8zP4wu",
+    "database": "crud_exercise_22ktpm4_22127072_db",
+    "host": "dpg-ct89603qf0us73b3qieg-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
